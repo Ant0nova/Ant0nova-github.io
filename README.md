@@ -3,13 +3,13 @@
 Here you can fight a little with the monster. 
 We get four buttons which we can press: 
 
-to attack the monster, 
+1. to attack the monster; 
 
-to launch a strog attack against the monster, 
+2. to launch a strog attack against the monster;
 
-to heal ourselves 
+3. to heal ourselves;
 
-and also to output some log informaition about the past rounds.
+4. and also to output some log informaition about the past rounds.
 
 Screenshot
 
