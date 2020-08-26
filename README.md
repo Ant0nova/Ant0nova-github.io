@@ -5,7 +5,7 @@ We get four buttons which we can press:
 
 1. to attack the monster; 
 
-2. to launch a strog attack against the monster;
+2. to launch a strong attack against the monster;
 
 3. to heal ourselves;
 
