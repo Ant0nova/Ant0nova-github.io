@@ -10,9 +10,9 @@ We get four buttons which we can press:
 3. to heal ourselves;
 
 
-![image] (https://media.giphy.com/media/U3yNnVwbapE2Zb0ZqI/giphy.gif)
+![image](https://media.giphy.com/media/U3yNnVwbapE2Zb0ZqI/giphy.gif)
 
 
 4. and also to output some log informaition about the past rounds.
 
-![image] (https://media.giphy.com/media/SqIYMeoqSF1r8zLhCC/giphy.gif)
+![image](https://media.giphy.com/media/SqIYMeoqSF1r8zLhCC/giphy.gif)
